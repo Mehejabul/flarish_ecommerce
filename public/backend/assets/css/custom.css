@@ -1,0 +1,38 @@
+.productNameColor{
+    color: #8C68CD;
+    font-size: small;
+    font-weight: 500;
+}
+.productDetailsColor{
+    color: #8C68CD;
+    font-size: small;
+    font-weight: 500;
+}
+span.red{
+    color: red !important;
+    font-size: small !important;
+}
+.ec-vendor-uploads .ec-vendor-upload-detail input[type=text] {
+    height: 45px !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: none;
+    border-radius: 8px !important;
+}
+.fvrduplicate .form-group .form-control
+    {
+        font-size: 15px;
+        padding: -0.5rem 1.06rem !important;
+        border-color: #afafaf !important;
+    }
+.form-group .form-control
+    {
+        font-size: 15px;
+        padding: -0.5rem 1.06rem !important;
+        border-color: #afafaf !important;
+    }
+
+.ec-brand a img {
+    max-width: 150px !important;
+    vertical-align: middle;
+}
